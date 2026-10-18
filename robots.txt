@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://znxccqyrt7-boop.github.io/HAQQAK---IQ-/sitemap.xml
